@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Environment
+.env
+
+# VaultMind runtime data
+chroma_db/
+*.db
+
+# Sentence-transformers model cache (if downloaded locally)
+models/
+
+# Logs
+*.log
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
