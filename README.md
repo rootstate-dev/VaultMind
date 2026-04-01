@@ -118,9 +118,13 @@ VaultMind-py/
 └── pyproject.toml
 ```
 
-## Contributing
+## Contributors
 
 Contributions are welcome. Please open an issue first to discuss what you'd like to change.
+
+<a href="https://github.com/rootstate-dev/VaultMind/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rootstate-dev/VaultMind" />
+</a>
 
 ## License
 
